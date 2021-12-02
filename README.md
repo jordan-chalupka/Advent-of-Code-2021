@@ -1,9 +1,11 @@
 # Advent of Code 2021
 
+https://adventofcode.com/2021
+
 ## Progress
 Day 1 :white_check_mark:
 
-Day 2
+Day 2 :white_check_mark:
 
 Day 3
 
